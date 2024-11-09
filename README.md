@@ -1,5 +1,3 @@
-Hello, I’m Abhay Singhal 👋
-
 Aspiring Software Developer | Data Science Visionary | Building Tomorrow’s Tech, Today
 
 🚀 Turning Challenges into Data-Driven Solutions:         A dedicated problem-solver with a mission to craft impactful, tech-driven solutions that resonate beyond code.
@@ -7,10 +5,6 @@ Aspiring Software Developer | Data Science Visionary | Building Tomorrow’s Tec
 🎓 Foundation in Data Science & Computer Science:         Data Science & Computer Science fuels my expertise in Software Development,data manipulation, predictive modeling, and tech innovation.
 
 💼 Real-World Project Creator:
-
-🔍 Fake News Detection:  
-🛒 Simplified E-commerce System.        
-🍏 Fruit Lifespan & Condition Tracker and more... 
 
 💡 Skilled in Python, SQL, C++, Core Java, and familiar with the Django framework, I build end-to-end systems that bridge data with functionality.
 

@@ -1,6 +1,6 @@
 Hello, I’m Abhay Singhal 👋
 
-Aspiring Software Developer | Data Science Enthusiast | Crafting Tomorrow’s Tech
+Aspiring Software Developer  ||  Data Science Enthusiast  ||  Crafting Tomorrow’s Tech
 
 🚀 Solution-Driven Innovator
 Passionate about transforming complex data into actionable insights and impactful solutions.

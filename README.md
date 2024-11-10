@@ -16,3 +16,6 @@ Precision-focused with a knack for data processing, predictive analytics, and co
 
 🌱 Lifelong Learner & Forward-Thinking
 Continuously evolving to stay ahead in tech and make meaningful, lasting contributions.
+
+
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdpabhay&show_icons=true)
